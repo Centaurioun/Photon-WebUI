@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
-    "core-js": "^2.6.5",
+    "core-js": "^3.27.2",
     "parse-torrent": "^7.0.0",
     "vue": "^2.6.10",
     "vue-i18n": "^8.12.0",
